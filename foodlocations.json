@@ -1,0 +1,31 @@
+{
+  "properties": {
+    "size": 3,
+    "foodLocations": [
+      {
+        "id": "1",
+        "address": "149-153 Bunda Street, Cairns",
+        "title": "200 Apples",
+        "phone": "0403404111",
+        "lat": -16.928893,
+        "lon": 145.770216
+      },
+      {
+        "id": "2",
+        "address": "197 Draper Street, Cairns",
+        "title": "350kg Rice",
+        "phone": "0403404222",
+        "lat": -16.928893,
+        "lon": 145.770216
+      },
+      {
+        "id": "3",
+        "address": "198 Grafton Street, Cairns",
+        "title": "800 Bread Loaves",
+        "phone": "0403404333",
+        "lat": -16.91648,
+        "lon": 145.769873
+      }
+    ]
+  }
+}
